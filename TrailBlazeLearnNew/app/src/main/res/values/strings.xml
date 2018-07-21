@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">TrailBlaze</string>
+    <string name="facebook_app_id">745081585696907</string>
+    <string name="fb_login_protocol_scheme">fb745081585696907</string>
+
+
+    <string name="nameview">Name</string>
+    <string name="open">NavBar</string>
+    <string name="close">NavBar</string>
+    <string name="LogoutBtn">Logout</string>
+    <string name="TrainerBtn">Trainer</string>
+    <string name="Participantbtn">Participant</string>
+    <string name="title_activity_trail">TrailActivity</string>
+    <string name="add_trails_to_appear_here">add items to appear here</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="remove">Remove</string>
+    <string name="edit">Edit</string>
+    <string name="saved_successfully">Saved Successfully</string>
+    <string name="trail_name_validation_ms">Please fill in trail name</string>
+    <string name="module_validation_ms">Please fill in module</string>
+    <string name="date_validation_ms">Please select the date</string>
+    <string name="code_validation_ms">Please fill in trail code</string>
+    <string name="save">Save</string>
+    <string name="date">Date</string>
+    <string name="module">Module</string>
+    <string name="trail_name">Trail Name</string>
+    <string name="trail_code">Trail Code</string>
+    <string name="station_name">Station Name</string>
+    <string name="station_name_validation_ms">Please fill in station name</string>
+    <string name="seq_num_validation_ms">Please fill in sequence number</string>
+    <string name="location_validation_ms">Please fill in location</string>
+    <string name="instruction_validation_ms">Please fill in instructions</string>
+    <string name="edittrail">Edit Trail</string>
+    <string name="editstation">Edit Station</string>
+
+    //Welcome Activity
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="slide_1_title">Learn Outside!</string>
+    <string name="slide_1_desc">Experience learning outside classroom!</string>
+
+    <string name="slide_2_title">Be Trainer or Participant</string>
+    <string name="slide_2_desc">You can be a trainer or participate in learnings!</string>
+
+    <string name="slide_3_title">Discuss</string>
+    <string name="slide_3_desc">Discuss among other participants and share your views while exploring!</string>
+
+    <string name="slide_4_title">Share Media</string>
+    <string name="slide_4_desc">You can share Images Documents and even record audio!</string>
+    <string name="enter_the_trail_id">Enter the Trail Id</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Station detail screen-->
+    <string name="station_detail_name">Station Name</string>
+    <string name="welcome_to_trailblazelearning">Welcome to TrailBlazeLearning</string>
+    <string name="add_description">add description...</string>
+    <string name="upload_document">UPLOAD DOCUMENT</string>
+    <string name="return_to_list">Return to list</string>
+    <string name="upload_image_photo">UPLOAD IMAGE/PHOTO</string>
+    <string name="login_using">Login Using</string>
+    <string name="todo">TODO</string>
+
+    <string name="WARNING_MSG">Are you sure you want to Logout?</string>
+    <string name="AS_A_TRAINER">I\'m a Trainer</string>
+    <string name="AS_A_PARTICIPANT">I\'m a Participant</string>
+    <string name="Hello_Main">Hello </string>
+    <string name="logOut">Logged Out</string>
+    <string name="enterTrailMsg">Please fill in TrailID</string>
+    <string name="JoinTrailError">Please enter correct and existing TrailID to join</string>
+
+    <string name="edit_station">Edit Station</string>
+    <string name="Join_the_trail_id">Enter the trail ID (YYYYMMDD-code) </string>
+    <string name="joinTrail">Join</string>
+    <string name="add_title">add title...</string>
+    <string name="proceed">Proceed</string>
+    <string name="trailblazeicon">TrailBlazeIcon</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="aboutus">Welcome to Trail Blaze Learning, Smartrain is a large training company that provides global training services in the United States and Asia Pacific Region. This application gives a unique experience to users to learn outside of classroom. It serves the purpose of courses that can be primarily conducted outdoor and designed as a learning activity.  The application will complement the learning by taking the participants on an experiential learning trail to observe, understand and initiate actions on their part to keep the environment clean. Participants can use this application to record their learning experience using photos captured along the trail, capture their learning points or write a short learning reflection about the learning trail.</string>
+    <string name="contact">Please contact our Admin Abhijit (e0267624@u.nus.edu) for queries!</string>
+
+
+</resources>
